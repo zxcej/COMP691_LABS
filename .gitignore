@@ -1,6 +1,6 @@
 .venv/
 .vscode/
-.data/
+data/
 data/test_32x32.mat
 data/train_32x32.mat
 data/MNIST/processed/test.pt
@@ -13,3 +13,4 @@ data/MNIST/raw/train-images-idx3-ubyte
 data/MNIST/raw/train-images-idx3-ubyte.gz
 data/MNIST/raw/train-labels-idx1-ubyte
 data/MNIST/raw/train-labels-idx1-ubyte.gz
+./MNIST.tar.gz
